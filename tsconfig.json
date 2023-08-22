@@ -12,6 +12,7 @@
     "noEmit": true,
     "esModuleInterop": true,
     "module": "esnext",
+    "strict": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
@@ -27,7 +28,6 @@
         "./*"
       ]
     },
-    "strict": false
   },
   "include": [
     "next-env.d.ts",
