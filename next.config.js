@@ -4,6 +4,7 @@
 module.exports = {
   experimental: {
     serverActions: true,
+    mode:  'development',
   },
   images: {
     domains: [
